@@ -8,6 +8,8 @@
 Yukarısı çok tatlıydı silmeye kıyamadım.
 --->
 string = myName = "Tolga";
+
 int myAge = 40;
+
 string location = "istanbul";
 
