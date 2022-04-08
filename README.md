@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @tolgahat
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Yukarısı çok tatlıydı silmeye kıyamadım.
+--->
+string = myName = "tolgahat";
+Console.WriteLine("Sıfırdan C# Öğrenmeye çalışıyorum. Onun gitHub'un bana yardımı dokunabilir diye üye oldum.");
+Console.Write("myName");
+// şimdilik bu kadar. 08.04.2022
