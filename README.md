@@ -7,7 +7,7 @@
 <!---
 Yukarısı çok tatlıydı silmeye kıyamadım.
 --->
-string = myName = "tolgahat";
-Console.WriteLine("Sıfırdan C# Öğrenmeye çalışıyorum. Onun gitHub'un bana yardımı dokunabilir diye üye oldum.");
-Console.Write("myName");
-// şimdilik bu kadar. 08.04.2022
+string = myName = "Tolga";
+int myAge = 40;
+string location = "istanbul";
+
